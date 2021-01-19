@@ -7,6 +7,9 @@
 var angkot1 = {
     sopir : 'Slamet Raharjo',
     trayek : 'Batang Kota - Subah',
-    penumpang : []
-    kas : 0
+    penumpang : [],
+    kas : 0,
+    tambahPenumpang : penumpangNaik() {
+
+    }
 }
